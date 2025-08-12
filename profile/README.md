@@ -91,4 +91,5 @@ Está sendo preparado um material de apoio para o uso do GitHub e Databricks nes
 - Não inclua dados sensíveis ou credenciais nos notebooks
 
 ────────────────────────────────────────────
+
 **Dúvidas ou sugestões, entre em contato com o responsável pelo repositório Everaldo Santos.**
