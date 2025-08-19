@@ -1,6 +1,6 @@
 **LDC - SBS OMCS | Guia do Usuário - Repositório GitHub + Databricks**
 
-Esta organização foi criada para organizar e versionar os notebooks de dados desenvolvidos pelas equipes de Originação, MDM, CCC e Suporte do SBS na LDC. Abaixo estão as instruções e boas práticas para o uso adequado desse ambiente integrado com GitHub e Databricks.
+Esta organização foi criada para organizar e versionar os notebooks de dados desenvolvidos pelas equipes de Originação, MDM, CCC, Suporte e Sustentabilidade do SBS na LDC. Abaixo estão as instruções e boas práticas para o uso adequado desse ambiente integrado com GitHub e Databricks.
 
 ────────────────────────────────────────────
 
