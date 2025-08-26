@@ -28,6 +28,7 @@ Esta organização foi criada para organizar e versionar os notebooks de dados d
 📝 NOMENCLATURA DE COMMITS
 
 ────────────────────────────────────────────
+
 Prefixos a serem usados nas mensagens de commit:
 - feat: Nova funcionalidade (ex: feat: add novo pipeline produtores ativos)
 - fix: Correção de bugs
