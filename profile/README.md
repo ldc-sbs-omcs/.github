@@ -69,11 +69,11 @@ Adicionado pipeline que gera relatório dos fornecedores ativos no AS400.
 👥 EQUIPES
 
 ────────────────────────────────────────────
-> Originação: [`ldc-sbs-origination`](https://github.com/ldc-sbs-omcs/origination-data-pipelines)
-> MDM: [`ldc-sbs-MDM`](https://github.com/ldc-sbs-omcs/MDM-data-pipelines)
-> Suporte: [`ldc-sbs-suporte`](https://github.com/ldc-sbs-omcs/suporte-data-pipelines)
-- CCC  
-> Organização: [`ldc-sbs-omcs`](https://github.com/ldc-sbs-omcs)
+- > Originação: [`ldc-sbs-origination`](https://github.com/ldc-sbs-omcs/origination-data-pipelines)
+- > MDM: [`ldc-sbs-MDM`](https://github.com/ldc-sbs-omcs/MDM-data-pipelines)
+- > Suporte: [`ldc-sbs-suporte`](https://github.com/ldc-sbs-omcs/suporte-data-pipelines)
+- > CCC: 
+- > Organização: [`ldc-sbs-omcs`](https://github.com/ldc-sbs-omcs)
 
 ────────────────────────────────────────────
 
